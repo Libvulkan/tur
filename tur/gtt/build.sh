@@ -4,6 +4,7 @@ TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_LICENSE_FILE="docs/license.rst"
 TERMUX_PKG_MAINTAINER="xMeM <haooy@outlook.com>"
 TERMUX_PKG_REVISION=1
+TERMUX_PKG_VERSION="25.0.0"
 TERMUX_PKG_SRCURL=git+https://github.com/Libvulkan/mesa
 TERMUX_PKG_DEPENDS="libandroid-shmem, libc++, libdrm, libx11, libxcb, libxshmfence, libwayland, vulkan-loader-generic, zlib, zstd"
 TERMUX_PKG_BUILD_DEPENDS="libwayland-protocols, libxrandr, xorgproto"
